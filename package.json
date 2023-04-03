@@ -1,0 +1,20 @@
+{
+  "name": "newgdaycare",
+  "version": "1.0.0",
+  "description": "NameToFace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gospelgeek/newgdaycare.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gospelgeek/newgdaycare/issues"
+  },
+  "homepage": "https://github.com/gospelgeek/newgdaycare#readme"
+}
